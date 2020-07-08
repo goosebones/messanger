@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wf5cCrasPqrt00bOV+3+90xt+0fPWCl3d4r05ZlZDI59BzvbXATZ9DQ+jKatEoXr4BgXcd6e/M21H930iEt6IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gunther\\Documents\\RIT\\spring20\\Copad\\project3\\Messenger\\Messenger\\Messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gunther\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

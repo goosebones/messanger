@@ -1,0 +1,13 @@
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.exe
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.deps.json
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.json
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.dev.json
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\bin\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.csprojAssemblyReference.cache
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfoInputs.cache
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfo.cs
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gunther\Desktop\Copad\project3\Messenger\Messenger\obj\Debug\netcoreapp3.1\Messenger.csproj.CopyComplete
